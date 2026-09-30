@@ -1,0 +1,903 @@
+Intensitas Cahaya (Kategori);Intensitas Air (Kategori);Cara Penyiraman (Frekuensi);Konsep Utama Taman;Ukuran Taman yang Cocok (Kategori);Lokasi Penanaman (Indoor/Outdoor);Tipe Utama Tanaman;Nama Tanaman
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Jati (Tectona grandis)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Kamboja (Plumeria)
+Rendah;Rendah;2-3 Hari Sekali;Indoor;Kecil;Indoor;Epifit Berbunga;Anggrek Bulan (Phalaenopsis)
+Penuh;Rendah;Mingguan;Minimalis;Kecil;Fleksibel;Sukulen;Lidah Mertua (Sansevieria)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Sirih Gading (Epipremnum aureum)
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Sarang Burung (Asplenium)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglaonema (Red Sumatra)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak;Puring (Codiaeum)
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Fleksibel;Tanaman Gantung;Lili Paris (Chlorophytum)
+Sebagian;Sedang;2-3 Hari Sekali;Tropis;Kecil;Indoor;Tanaman Daun;Gelombang Cinta (Anthurium)
+Penuh;Tinggi;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Trembesi (Samanea Saman)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Mahoni (Swietenia Mahagoni)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Jambu Biji (Psidium Guajava)
+Penuh;Sedang;Harian;Herbal/TOGA;Besar;Outdoor;Pohon Buah;Belimbing Wuluh (Averrhoa Bilimbi)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Sirsak (Annona Muricata)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Durian (Durio Zibethinus)
+Sebagian;Tinggi;Harian;Produktif;Besar;Outdoor;Pohon Buah;Manggis (Garcinia Mangostana)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Rambutan (Nephelium Lappaceum)
+Penuh;Tinggi;Harian;Tropis;Besar;Outdoor;Palem Hias;Kelapa Gading (Cocos Nucifera)
+Penuh;Sedang;Harian;Formal;Besar;Outdoor;Palem Hias;Palem Raja (Roystonea Regia)
+Penuh;Tinggi;Harian;Tropis;Sedang;Outdoor;Palem Hias;Palem Merah (Cyrtostachys Renda)
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Hias;Kamboja (Plumeria Rubra)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Sepatu (Hibiscus Rosa-Sinensis)
+Penuh;Sedang;Harian;Aromatik;Kecil;Outdoor;Semak Berbunga;Melati Putih (Jasminum Sambac)
+Penuh;Rendah;Mingguan;Taman Kering;Sedang;Outdoor;Semak Merambat;Bougenville (Bunga Kertas)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Pukul Empat (Mirabilis Jalapa)
+Penuh;Rendah;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Lavender (Lavandula)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Mawar Lokal (Rosa Hybrid)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Krisan (Chrysanthemum)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Kunyit (Curcuma Longa)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Jahe Gajah (Zingiber Officinale)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Temulawak (Curcuma Xanthorrhiza)
+Rendah;Sedang;Harian;Herbal/TOGA;Kecil;Indoor;Rimpang;Kencur (Kaempferia Galanga)
+Penuh;Tinggi;Harian;Herbal/TOGA;Sedang;Outdoor;Rumput/Rimpang;Sereh Dapur (Cymbopogon Citratus)
+Penuh;Sedang;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Bumbu;Daun Salam (Syzygium Polyanthum)
+Sebagian;Sedang;Harian;Herbal/TOGA;Besar;Outdoor;Pohon Bumbu;Kayu Manis (Cinnamomum Verum)
+Penuh;Tinggi;Harian;Produktif;Besar;Outdoor;Pohon Bumbu;Cengkeh (Syzygium Aromaticum)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Bumbu;Pala (Myristica Fragrans)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Kecil;Fleksibel;Sukulen;Lidah Buaya (Aloe Vera)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Tanaman Merambat;Binahong (Anredera Cordifolia)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Jati (Tectona Grandis)
+Penuh;Sedang;Harian;Herbal/TOGA;Sedang;Outdoor;Tanaman Merambat;Saga Manis (Abrus Precatorius)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Daun Dewa (Gynura Procumbens)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Nangka (Artocarpus Heterophyllus)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Sukun (Artocarpus Altilis)
+Penuh;Sedang;Harian;Aromatik;Besar;Outdoor;Pohon Peneduh;Pohon Tanjung (Mimusops Elengi)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Bintaro (Cerbera Odollam)
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Angsana (Pterocarpus Indicus)
+Penuh;Sedang;Harian;Formal;Besar;Outdoor;Pohon Peneduh;Kiara Payung (Filicium Decipiens)
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Glodokan Tiang (Polyalthia Longifolia)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Fleksibel;Sukulen;Kamboja Jepang (Adenium Obesum)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Mindi (Melia Azedarach)
+Penuh;Sedang;Harian;Pagar Hidup;Sedang;Outdoor;Semak;Pucuk Merah (Syzygium Oleina)
+Penuh;Rendah;2-3 Hari Sekali;Minimalis;Besar;Outdoor;Pohon Peneduh;Ketapang Kencana (Terminalia Mantaly)
+Penuh;Tinggi;Harian;Natural;Kecil;Outdoor;Bambu Hias;Bambu Air (Equisetum Hyemale)
+Rendah;Tinggi;Harian;Indoor;Kecil;Indoor;Bambu Hias;Bambu Rejeki (Dracaena Sanderiana)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Janda Bolong (Monstera Adansonii)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Philodendron (Monstera Deliciosa)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Ornata (Pinstripe)
+Sebagian;Tinggi;Harian;Tropis;Kecil;Indoor;Tanaman Daun;Alocasia Amazonica
+Rendah;Tinggi;Harian;Tropis;Kecil;Indoor;Tanaman Daun;Keladi Hias (Caladium Bicolor)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak;Kroton (Codiaeum Petra)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglonema (Legacy)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Syngonium Podophyllum
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Tanduk Rusa (Platycerium Bifurcatum)
+Penuh;Sedang;2-3 Hari Sekali;Formal;Sedang;Outdoor;Pohon Hias;Cemara Lilin (Cupressus Sempervirens)
+Penuh;Sedang;2-3 Hari Sekali;Peneduh;Besar;Outdoor;Pohon Berbunga;Tabebuya Kuning (Handroanthus Chrysotrichus)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Berbunga;Flamboyan (Delonix Regia)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Soka Merah (Ixora Coccinea)
+Penuh;Rendah;2-3 Hari Sekali;Aromatik;Besar;Outdoor;Pohon Peneduh;Lavender Tree (Vitex Trifolia)
+Penuh;Sedang;Harian;Produktif;Sedang;Outdoor;Semak Buah;Jeruk Nipis (Citrus Aurantifolia)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Mangga (Mangifera Indica)
+Penuh;Tinggi;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pepaya (Carica Papaya)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Kedondong (Spondias Dulcis)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Belimbing Manis (Averrhoa Carambola)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Alpukat (Persea Americana)
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Hias;Cemara Udang (Casuarina Equisetifolia)
+Penuh;Sedang;Harian;Pagar Hidup;Sedang;Outdoor;Semak;Warisan (Syzygium Australe)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Tanaman Merambat;Bunga Terompet (Allamanda Cathartica)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Alamanda (Allamanda Neriifolia)
+Penuh;Sedang;Harian;Aromatik;Sedang;Outdoor;Semak Berbunga;Kemuning (Murraya Paniculata)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Daun Mint (Mentha Piperita)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Tanaman Merambat;Daun Sirih (Piper Betle)
+Penuh;Sedang;Harian;Herbal/TOGA;Sedang;Outdoor;Semak;Daun Katuk (Sauropus Androgynus)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Herba;Seledri (Apium Graveolens)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Umbi;Bawang Merah (Allium Cepa)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Umbi;Bawang Putih (Allium Sativum)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Herba;Bawang Daun (Allium Fistulosum)
+Penuh;Rendah;2-3 Hari Sekali;Natural;Kecil;Outdoor;Rimpang Berbunga;Bunga Sungsang (Gloriosa Superba)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Rimpang Berbunga;Bunga Cendrawasih (Strelitzia Reginae)
+Sebagian;Sedang;Harian;Tropis;Kecil;Outdoor;Tanaman Daun;Miana (Coleus Scutellarioides)
+Sebagian;Tinggi;Harian;Produktif;Sedang;Outdoor;Umbi;Lompong (Talas)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Sedang;Outdoor;Umbi;Singkong (Manihot Esculenta)
+Penuh;Rendah;Mingguan;Produktif;Kecil;Outdoor;Umbi;Ubi Jalar (Ipomoea Batatas)
+Penuh;Rendah;2-3 Hari Sekali;Herbal/TOGA;Besar;Outdoor;Pohon Bumbu;Kelor (Moringa Oleifera)
+Penuh;Sedang;Harian;Aromatik;Kecil;Outdoor;Herba;Kemangi (Ocimum Basilicum)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Kumis Kucing (Orthosiphon Stamineus)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Sambiloto (Andrographis Paniculata)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Bumbu;Mahkota Dewa (Phaleria Macrocarpa)
+Penuh;Tinggi;Harian;Tropis;Sedang;Outdoor;Rimpang Berbunga;Bunga Tasbih (Canna Indica)
+Rendah;Tinggi;Harian;Natural;Besar;Outdoor;Parasit/Unik;Bunga Raflesia (Rafflesia Arnoldii)
+Penuh;Sedang;Harian;Tropis;Kecil;Outdoor;Epifit Berbunga;Anggrek Vanda
+Sebagian;Sedang;Harian;Tropis;Kecil;Fleksibel;Epifit Berbunga;Anggrek Dendrobium
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Kecil;Outdoor;Epifit Berbunga;Anggrek Cattleya
+Sebagian;Sedang;Harian;Tropis;Kecil;Outdoor;Epifit Berbunga;Anggrek Hitam (Coelogyne Pandurata)
+Sebagian;Sedang;Harian;Tropis;Kecil;Outdoor;Tanaman Daun;Miana Tricolor
+Sebagian;Tinggi;Harian;Tropis;Kecil;Indoor;Tanaman Daun;Alocasia Zebrina
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Philodendron Birkin
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Peperomia Watermelon
+Sebagian;Sedang;2-3 Hari Sekali;Minimalis;Sedang;Fleksibel;Pohon Hias;Ficus Lyrata (Pohon Biola)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Beringin Putih (Ficus Benjamina)
+Penuh;Sedang;2-3 Hari Sekali;Formal;Sedang;Outdoor;Pohon Hias;Cemara Kipas (Thuja Occidentalis)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Outdoor;Rimpang Berbunga;Bunga Sedap Malam (Polianthes Tuberosa)
+Penuh;Tinggi;Harian;Tropis;Besar;Outdoor;Rimpang Berbunga;Heliconia Rostrata (Pisang-Pisangan)
+Penuh;Tinggi;Harian;Tropis;Besar;Outdoor;Palem Hias;Pisang Kipas (Ravenala Madagascariensis)
+Penuh;Rendah;2-3 Hari Sekali;Minimalis;Sedang;Outdoor;Palem Hias;Palem Botol (Hyophorbe Lagenicaulis)
+Sebagian;Sedang;Harian;Natural;Sedang;Outdoor;Palem Hias;Palem Ekor Ikan (Caryota Mitis)
+Penuh;Sedang;2-3 Hari Sekali;Minimalis;Besar;Outdoor;Palem Hias;Palem Sadeng (Saribus Rotundifolius)
+Sebagian;Sedang;Harian;Tropis;Sedang;Outdoor;Palem Hias;Palem Regu (Actinophloeus Macarthurii)
+Penuh;Rendah;2-3 Hari Sekali;Taman Kering;Sedang;Outdoor;Palem Hias;Sikas (Cycas Revoluta)
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Buah;Pohon Kersen (Muntingia Calabura)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Duku (Lansium Parasiticum)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Matoa (Pometia Pinnata)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Sawo Manila (Manilkara Zapota)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Kelengkeng (Dimocarpus Longan)
+Penuh;Sedang;Harian;Produktif;Sedang;Outdoor;Semak Buah;Pohon Ceri Barbados (Malpighia Emarginata)
+Sebagian;Sedang;Harian;Herbal/TOGA;Sedang;Outdoor;Tanaman Merambat;Daun Kemukus (Piper Cubeba)
+Sebagian;Tinggi;Harian;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Pegagan (Centella Asiatica)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Umbi;Daun Bawang Dayak (Eleutherine Americana)
+Penuh;Rendah;Mingguan;Natural;Sedang;Outdoor;Semak Berbunga;Bunga Panca Warna (Lantana Camara)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Bunga;Bunga Jengger Ayam (Celosia Cristata)
+Penuh;Sedang;Harian;Aromatik;Sedang;Outdoor;Semak Berbunga;Bunga Kemuning (Murrya Paniculata)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Sukulen;Bunga Adenium (Multi Warna)
+Penuh;Rendah;Mingguan;Taman Kering;Sedang;Outdoor;Semak;Jarak Pagar (Jatropha Curcas)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Semak;Daun Jarak Merah (Jatropha Gossypiifolia)
+Penuh;Sedang;Harian;Produktif;Sedang;Outdoor;Tanaman Merambat;Lada (Piper Nigrum)
+Sebagian;Sedang;2-3 Hari Sekali;Produktif;Sedang;Outdoor;Tanaman Merambat;Vanili (Vanilla Planifolia)
+Sebagian;Sedang;Harian;Produktif;Sedang;Outdoor;Semak Buah;Kopi Robusta (Coffea Canephora)
+Sebagian;Tinggi;Harian;Produktif;Besar;Outdoor;Pohon Buah;Cokelat (Theobroma Cacao)
+Penuh;Sedang;Harian;Herbal/TOGA;Sedang;Outdoor;Semak Berbunga;Bunga Rosella (Hibiscus Sabdariffa)
+Sebagian;Tinggi;Harian;Herbal/TOGA;Kecil;Indoor;Rimpang;Daun Keladi Tikus (Typhonium Flagelliforme)
+Penuh;Tinggi;Harian;Natural;Kecil;Outdoor;Paku Hias;Paku Ekor Kuda (Equisetum Hyemale)
+Rendah;Tinggi;Harian;Indoor;Kecil;Indoor;Paku Hias;Paku Suplir (Adiantum Raddianum)
+Rendah;Sedang;Harian;Indoor;Kecil;Indoor;Paku Hias;Paku Boston (Nephrolepis Exaltata)
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Tanduk Rusa (Platycerium Wiliinckii)
+Sebagian;Rendah;Mingguan;Natural;Kecil;Fleksibel;Epifit/Unik;Paku Sarang Semut (Hydnophytum Papuanum)
+Penuh;Sedang;Harian;Klasik;Kecil;Fleksibel;Pohon Hias;Bonsai Beringin (Ficus Benghalensis)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Pohon Hias;Bonsai Serut (Streblus Asper)
+Penuh;Rendah;2-3 Hari Sekali;Klasik;Kecil;Outdoor;Pohon Hias;Bonsai Kawista (Limonia Acidissima)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Pohon Hias;Bonsai Santigi (Pemphis Acidula)
+Penuh;Sedang;Harian;Formal;Besar;Outdoor;Palem Hias;Pohon Pinang (Areca Catechu)
+Penuh;Rendah;2-3 Hari Sekali;Minimalis;Sedang;Outdoor;Palem Hias;Palem Phoenix (Phoenix Roebelenii)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Petunia (Petunia Axillaris)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Zinnia (Zinnia Elegans)
+Penuh;Rendah;2-3 Hari Sekali;Natural;Sedang;Outdoor;Bunga;Bunga Cosmos (Cosmos Bipinnatus)
+Penuh;Rendah;Harian;Taman Kering;Kecil;Outdoor;Semak Berbunga;Bunga Krokot (Portulaca Grandiflora)
+Penuh;Rendah;2-3 Hari Sekali;Taman Kering;Kecil;Outdoor;Semak Berbunga;Bunga Tapak Dara (Catharanthus Roseus)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Soka (Ixora Javanica)
+Penuh;Sedang;Harian;Pagar Hidup;Sedang;Outdoor;Tanaman Merambat;Bunga Morning Glory (Ipomoea Purpurea)
+Penuh;Rendah;2-3 Hari Sekali;Klasik;Kecil;Outdoor;Bunga;Bunga Baby's Breath (Gypsophila Paniculata)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Herba;Tanaman Kupu-Kupu (Oxalis Triangularis)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Herba;Bunga Violet Afrika (Saintpaulia)
+Rendah;Tinggi;Harian;Indoor;Kecil;Indoor;Herba;Bunga Peace Lily (Spathiphyllum)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglonema (Dud Unjamanee)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Zebrina
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Waru (Hibiscus Tiliaceus)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Buni (Antidesma Bunius)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Rambe (Baccaurea Ramiflora)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Rukem (Flacourtia Rukam)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Gandaria (Bouea Macrophylla)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Besar;Outdoor;Pohon Buah;Pohon Maja (Aegle Marmelos)
+Sebagian;Sedang;Harian;Aromatik;Besar;Outdoor;Pohon Buah;Pohon Kepel (Stelechocarpus Burahol)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Bisbul (Diospyros Blancoi)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Mundu (Garcinia Dulcis)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Peneduh;Pohon Jengkol (Archidendron Jiringa)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Peneduh;Pohon Petai (Parkia Speciosa)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Besar;Outdoor;Pohon Peneduh;Pohon Jati Belanda (Guazuma Ulmifolia)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Umbi Berbunga;Bunga Bakung (Crinum Asiaticum)
+Penuh;Tinggi;Harian;Tropis;Sedang;Outdoor;Rimpang Berbunga;Bunga Heliconia Psittacorum
+Penuh;Sedang;Harian;Aromatik;Sedang;Outdoor;Semak Bumbu;Daun Jeruk Purut (Citrus Hystrix)
+Rendah;Sedang;Harian;Herbal/TOGA;Kecil;Indoor;Rimpang;Daun Kencur (Kaempferia Galanga)
+Sebagian;Tinggi;Harian;Herbal/TOGA;Sedang;Outdoor;Tanaman Merambat;Daun Cincau Hijau (Cyclea Barbata)
+Penuh;Sedang;Harian;Herbal/TOGA;Sedang;Outdoor;Tanaman Merambat;Daun Saga Rambat (Abrus Precatorius)
+Penuh;Rendah;2-3 Hari Sekali;Herbal/TOGA;Sedang;Outdoor;Semak;Daun Beluntas (Pluchea Indica)
+Sebagian;Tinggi;Harian;Aromatik;Kecil;Indoor;Semak Daun;Daun Pandan (Pandanus Amaryllifolius)
+Penuh;Sedang;Harian;Aromatik;Kecil;Outdoor;Herba;Daun Kemangi (Ocimum Basilicum)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Daun Kumis Kucing (Orthosiphon Aristatus)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Daun Dewa (Gynura Divaricata)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Daun Sambiloto (Andrographis Paniculata)
+Penuh;Sedang;Harian;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Tempuyung (Sonchus Arvensis)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Bumbu;Pohon Pala (Myristica Fragrans)
+Penuh;Tinggi;Harian;Produktif;Besar;Outdoor;Pohon Bumbu;Pohon Cengkeh (Syzygium Aromaticum)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Besar;Outdoor;Pohon Peneduh;Pohon Kayu Putih (Melaleuca Leucadendra)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Kesambi (Schleichera Oleosa)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Mundar (Garcinia Dulcis)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Kepundung (Baccaurea Dulcis)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Tampui (Baccaurea Macrocarpa)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Sentul (Sandoricum Koetjape)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Asam Jawa (Tamarindus Indica)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Bumbu;Pohon Asam Kandis (Garcinia Xanthochymus)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Nam-Nam (Cynometra Cauliflora)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Gowok (Syzygium Polyanthum)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Rukam (Flacourtia Rukam)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Bol (Syzygium Malaccense)
+Penuh;Rendah;Mingguan;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Monyet (Anacardium Occidentale)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Air (Syzygium Aqueum)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Biji (Psidium Guajava)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Sedang;Outdoor;Semak Buah;Pohon Delima (Punica Granatum)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Sedang;Outdoor;Pohon Buah;Pohon Tin (Ficus Carica)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Zaitun Jawa (Sterculia Foetida)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Kesemek (Diospyros Kaki)
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Palem Hias;Pohon Siwalan (Borassus Flabellifer)
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Palem Hias;Palem Bismarkia (Bismarckia Nobilis)
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Besar;Outdoor;Palem Hias;Palem Jenggot (Beccariophoenix Madagascariensis)
+Sebagian;Sedang;Harian;Tropis;Sedang;Fleksibel;Palem Hias;Palem Kuning (Dypsis Lutescens)
+Sebagian;Sedang;Harian;Minimalis;Sedang;Outdoor;Bambu Hias;Bambu Jepang (Pseudosasa Japonica)
+Sebagian;Sedang;Harian;Natural;Besar;Outdoor;Bambu Hias;Bambu Hitam (Phyllostachys Nigra)
+Penuh;Rendah;2-3 Hari Sekali;Minimalis;Sedang;Outdoor;Bambu Hias;Bambu Buddha Belly (Bambusa Ventricosa)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Makoyana
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Musaica
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Lancifolia (Rattlesnake)
+Sebagian;Sedang;2-3 Hari Sekali;Tropis;Sedang;Fleksibel;Tanaman Daun;Philodendron Selloum
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Philodendron Prince of Orange
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Monstera Karstenianum
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Pothos Silver (Scindapsus Pictus)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Syngonium Pink Neon
+Sebagian;Rendah;Mingguan;Indoor;Kecil;Fleksibel;Tanaman Gantung;Hoya Carnosa
+Sebagian;Sedang;Harian;Natural;Kecil;Outdoor;Paku Hias;Paku Kawat (Lycopodium Clavatum)
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Kidang (Asplenium Antiquum)
+Sebagian;Sedang;Harian;Natural;Kecil;Outdoor;Paku Hias;Paku Sarang Lebah (Dryopteris)
+Penuh;Rendah;2-3 Hari Sekali;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Geranium (Pelargonium Graveolens)
+Sebagian;Sedang;Harian;Klasik;Kecil;Indoor;Bunga;Bunga Begonia (Begonia Semperflorens)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Umbi Berbunga;Bunga Cyclamen (Cyclamen Persicum)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Umbi Berbunga;Bunga Gloxinia (Sinningia Speciosa)
+Sebagian;Tinggi;Harian;Klasik;Sedang;Outdoor;Semak Berbunga;Bunga Hydrangea (Hydrangea Macrophylla)
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Semak Berbunga;Bunga Camellia (Camellia Japonica)
+Sebagian;Sedang;Harian;Aromatik;Sedang;Outdoor;Semak Berbunga;Bunga Gardenia (Gardenia Jasminoides)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Krisan Ungu
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Aster (Callistephus Chinensis)
+Penuh;Rendah;2-3 Hari Sekali;Natural;Kecil;Outdoor;Bunga;Bunga Marigold (Tagetes Erecta)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Bunga;Bunga Gomphrena (Globe Amaranth)
+Penuh;Sedang;Harian;Aromatik;Sedang;Outdoor;Tanaman Merambat;Bunga Melati Gambir (Jasminum Fissile)
+Penuh;Sedang;Harian;Pagar Hidup;Sedang;Outdoor;Tanaman Merambat;Bunga Meli (Quisqualis Indica)
+Penuh;Sedang;Harian;Pagar Hidup;Sedang;Outdoor;Tanaman Merambat;Bunga Air Mata Pengantin (Antigonon Leptopus)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Fleksibel;Herba;Daun Mint Peppermint (Mentha Piperita)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Fleksibel;Herba;Daun Mint Spearmint (Mentha Spicata)
+Penuh;Sedang;Harian;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Stevia (Stevia Rebaudiana)
+Penuh;Sedang;Harian;Herbal/TOGA;Sedang;Outdoor;Semak Berbunga;Daun Rosella (Hibiscus Sabdariffa)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Jinten (Plectranthus Amboinicus)
+Penuh;Sedang;Harian;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Adas (Foeniculum Vulgare)
+Penuh;Rendah;Harian;Herbal/TOGA;Kecil;Outdoor;Semak;Daun Krokot Merah (Portulaca Oleracea)
+Penuh;Rendah;2-3 Hari Sekali;Herbal/TOGA;Kecil;Outdoor;Tanaman Merambat;Bunga Telang Biru (Clitoria Ternatea)
+Penuh;Rendah;2-3 Hari Sekali;Herbal/TOGA;Kecil;Outdoor;Tanaman Merambat;Bunga Telang Ungu
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Kunyit Putih (Curcuma Zedoaria)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Lempuyang Gajah (Zingiber Zerumbet)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Bengle (Zingiber Cassumnar)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Jahe Emprit (Zingiber Officinale Var Rubrum)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglonema (Kochin Paramuay)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglonema (Cutlass)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglonema (Silver Queen)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Sirih Gading (Global Green)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Sirih Gading (N'joy)
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Fleksibel;Tanaman Merambat;Sirih Gading (Marble Queen)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Monstera Obliqua Peru
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Monstera Siltepecana
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Micans
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Pink Princess
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Tanduk Rusa (Ridleyi)
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Tanduk Rusa (Superbum)
+Sebagian;Rendah;Mingguan;Natural;Kecil;Fleksibel;Epifit/Unik;Paku Sarang Semut (Myrmecodia Beccarii)
+Rendah;Tinggi;Harian;Indoor;Kecil;Indoor;Paku Hias;Paku Rambut Venus (Adiantum Capillus-Veneris)
+Sebagian;Sedang;Harian;Taman Vertikal;Kecil;Fleksibel;Paku Hias;Paku Pedang (Nephrolepis Cordifolia)
+Penuh;Rendah;Mingguan;Minimalis;Sedang;Fleksibel;Pohon Hias;Ficus Elastica (Pohon Karet Kebun)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Ficus Benghalensis (Banyan Tree)
+Penuh;Sedang;2-3 Hari Sekali;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Ketapang (Terminalia Catappa)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Saga (Adenanthera Pavonina)
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Kenari (Canarium Commune)
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Buah;Pohon Kersen (Jamaica Cherry)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Menteng (Baccaurea Racemosa)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Cerme (Phyllanthus Acidus)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Kapulasan (Nephelium Mutabile)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Rukem (Flacourtia Indica)
+Penuh;Rendah;Mingguan;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Mete (Anacardium Occidentale)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Darat (Syzygium Cumini)
+Penuh;Rendah;2-3 Hari Sekali;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Kedoya (Dysoxylum Cullitanum)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Mawar Merah (Red Rose)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Mawar Pink (Pink Rose)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Mawar Kuning (Yellow Rose)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Mawar Putih (White Rose)
+Sebagian;Sedang;Harian;Klasik;Kecil;Outdoor;Umbi Berbunga;Bunga Dahlia (Dahlia Pinnata)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Anyelir (Dianthus Caryophyllus)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Petunia Ungu
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Petunia Merah
+Penuh;Rendah;2-3 Hari Sekali;Taman Kering;Kecil;Outdoor;Semak Berbunga;Bunga Vinca Merah (Catharanthus Roseus)
+Penuh;Rendah;2-3 Hari Sekali;Taman Kering;Kecil;Outdoor;Semak Berbunga;Bunga Vinca Putih
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Krisan Putih
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Krisan Kuning
+Sebagian;Sedang;Harian;Aromatik;Kecil;Outdoor;Rimpang Berbunga;Bunga Sedap Malam (Merah)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Rimpang Berbunga;Bunga Cendrawasih (Orange)
+Penuh;Tinggi;Harian;Tropis;Besar;Outdoor;Rimpang Berbunga;Heliconia Caribaea
+Penuh;Tinggi;Harian;Tropis;Besar;Outdoor;Rimpang Berbunga;Heliconia Latispatha
+Penuh;Sedang;Harian;Formal;Sedang;Outdoor;Palem Hias;Palem Putri (Veitchia Merrillii)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Palem Hias;Palem Waregu (Rhapis Excelsa)
+Penuh;Rendah;2-3 Hari Sekali;Minimalis;Besar;Outdoor;Palem Hias;Palem Kol (Dictyosperma Album)
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Palem Hias;Palem Gebang (Corypha Utan)
+Penuh;Tinggi;Harian;Natural;Besar;Outdoor;Bambu Hias;Bambu Kuning (Bambusa Vulgaris)
+Penuh;Sedang;Harian;Minimalis;Sedang;Outdoor;Bambu Hias;Bambu Garuda (Bambusa Textilis)
+Penuh;Tinggi;Harian;Natural;Kecil;Outdoor;Bambu Hias;Bambu Air Variegata (Equisetum Hyemale)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglaonema (Harlequin)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglaonema (Pride of Sumatra)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea White Fusion
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Medallion
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Florida Green
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Gloriosum
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Monstera Dubia
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Monstera Thai Constellation
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Pothos Neon (Epipremnum Aureum)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Pothos Jade (Epipremnum Aureum)
+Sebagian;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Gantung;Hoya Kerrii (Sweetheart Hoya)
+Sebagian;Rendah;Mingguan;Natural;Kecil;Fleksibel;Epifit/Unik;Paku Sarang Semut (Hydnophytum Formicarum)
+Sebagian;Sedang;2-3 Hari Sekali;Taman Vertikal;Kecil;Fleksibel;Paku Hias;Paku Ekor Tupai (Asparagus Densiflorus)
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Tanduk Rusa (Stemaria)
+Rendah;Tinggi;Harian;Indoor;Kecil;Indoor;Paku Hias;Paku Selaginella (Selaginella Kraussiana)
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Kadaka (Asplenium Antiquum)
+Sebagian;Sedang;Harian;Tropis;Kecil;Outdoor;Epifit Berbunga;Bunga Anggrek Coelogyne
+Penuh;Sedang;Harian;Tropis;Besar;Outdoor;Epifit Berbunga;Bunga Anggrek Grammatophyllum
+Rendah;Rendah;2-3 Hari Sekali;Indoor;Kecil;Indoor;Epifit Berbunga;Bunga Anggrek Phalaenopsis (Pink)
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Kecil;Outdoor;Epifit Berbunga;Bunga Anggrek Cattleya (Hybrid)
+Penuh;Tinggi;Harian;Natural;Sedang;Outdoor;Tanaman Air;Bunga Lili Air (Nymphaea)
+Penuh;Tinggi;Harian;Natural;Sedang;Outdoor;Tanaman Air;Bunga Teratai (Nelumbo Nucifera)
+Penuh;Tinggi;Harian;Natural;Kecil;Outdoor;Tanaman Air;Ki Ambang (Pistia Stratiotes)
+Penuh;Tinggi;Harian;Natural;Kecil;Outdoor;Tanaman Air;Eceng Gondok (Eichhornia Crassipes)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Fleksibel;Herba;Daun Mint Apel (Mentha Suaveolens)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Fleksibel;Herba;Daun Mint Cokelat (Mentha x Piperita)
+Penuh;Rendah;Mingguan;Aromatik;Kecil;Outdoor;Herba;Daun Oregano (Origanum Vulgare)
+Penuh;Rendah;Mingguan;Aromatik;Kecil;Outdoor;Semak Bumbu;Daun Rosemary (Salvia Rosmarinus)
+Penuh;Rendah;Mingguan;Aromatik;Kecil;Outdoor;Herba;Daun Thyme (Thymus Vulgaris)
+Sebagian;Sedang;Harian;Produktif;Kecil;Outdoor;Herba;Daun Parsley (Petroselinum Crispum)
+Penuh;Sedang;Harian;Aromatik;Kecil;Outdoor;Herba;Daun Basil (Ocimum Basilicum)
+Penuh;Sedang;Harian;Aromatik;Kecil;Outdoor;Herba;Daun Taragon (Artemisia Dracunculus)
+Penuh;Sedang;Harian;Aromatik;Kecil;Outdoor;Herba;Daun Dill (Anethum Graveolens)
+Penuh;Sedang;Harian;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Fenugreek (Trigonella Foenum-Graecum)
+Penuh;Rendah;2-3 Hari Sekali;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Jintan Hitam (Nigella Sativa)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Fleksibel;Rimpang Bumbu;Daun Kapulaga (Amomum Compactum)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Pagoda (Clerodendrum Paniculatum)
+Sebagian;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Nusa Indah (Mussaenda Philippica)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak;Bunga Puring (Codiaeum Petra)
+Penuh;Sedang;Harian;Pagar Hidup;Sedang;Outdoor;Semak Berbunga;Bunga Kemuning Pagar (Murraya Paniculata)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Soka (Ixora Coccinea Merah)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Soka (Ixora Coccinea Kuning)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Soka (Ixora Coccinea Putih)
+Penuh;Rendah;Mingguan;Taman Kering;Sedang;Outdoor;Semak Merambat;Bunga Bougenville Ungu
+Penuh;Rendah;Mingguan;Taman Kering;Sedang;Outdoor;Semak Merambat;Bunga Bougenville Putih
+Penuh;Rendah;Mingguan;Taman Kering;Sedang;Outdoor;Semak Merambat;Bunga Bougenville Orange
+Penuh;Rendah;Mingguan;Taman Kering;Sedang;Outdoor;Semak Merambat;Bunga Bougenville Variegata
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Pohon Peneduh;Pohon Cemara Laut (Casuarina Equisetifolia)
+Penuh;Sedang;2-3 Hari Sekali;Formal;Besar;Outdoor;Pohon Hias;Pohon Cemara Norfolk (Araucaria Heterophylla)
+Penuh;Rendah;Mingguan;Formal;Sedang;Outdoor;Pohon Hias;Pohon Cemara Pensil (Juniperus Communis)
+Penuh;Sedang;2-3 Hari Sekali;Formal;Besar;Outdoor;Pohon Hias;Pohon Cemara Ekor Tupai (Podocarpus Neriifolius)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Beringin Ekor Naga (Ficus Microcarpa)
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Berbunga;Pohon Afrika (Spathodea Campanulata)
+Penuh;Sedang;Harian;Aromatik;Besar;Outdoor;Pohon Bunga;Pohon Kenanga (Cananga Odorata)
+Penuh;Sedang;Harian;Aromatik;Besar;Outdoor;Pohon Bunga;Pohon Cempaka Putih (Michelia Alba)
+Penuh;Sedang;Harian;Aromatik;Besar;Outdoor;Pohon Bunga;Pohon Cempaka Merah (Michelia Champaca)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Melinjo (Gnetum Gnemon)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Buah;Pohon Asam Jawa (Tamarindus Indica)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Keluwih (Artocarpus Camansi)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jamblang (Syzygium Cumini)
+Penuh;Rendah;Mingguan;Produktif;Besar;Outdoor;Pohon Buah;Pohon Kemiri (Aleurites Moluccanus)
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Pohon Peneduh;Pohon Kapuk (Ceiba Pentandra)
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Pohon Peneduh;Pohon Randu (Ceiba Pentandra)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Sono Keling (Dalbergia Latifolia)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Beringin (Ficus Benghalensis)
+Penuh;Rendah;Mingguan;Produktif;Besar;Outdoor;Pohon Buah;Pohon Kawista (Limonia Acidissima)
+Sebagian;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Leci (Litchi Chinensis)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Longan (Dimocarpus Longan)
+Penuh;Sedang;Harian;Produktif;Sedang;Outdoor;Tanaman Merambat;Pohon Markisa (Passiflora Edulis)
+Penuh;Sedang;Harian;Produktif;Sedang;Outdoor;Semak Buah;Pohon Murbei (Morus Nigra)
+Sebagian;Sedang;Harian;Produktif;Sedang;Outdoor;Palem Buah;Pohon Salak (Salacca Zalacca)
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Palem Hias;Palem Bismarkia (Perak)
+Penuh;Rendah;2-3 Hari Sekali;Minimalis;Besar;Outdoor;Palem Hias;Palem Kol (Silver)
+Sebagian;Sedang;Harian;Tropis;Kecil;Fleksibel;Palem Hias;Palem Kuning (Mini)
+Penuh;Rendah;2-3 Hari Sekali;Minimalis;Sedang;Outdoor;Bambu Hias;Bambu Cendani (Bambusa Spinosoides)
+Sebagian;Sedang;Harian;Natural;Sedang;Outdoor;Bambu Hias;Bambu Panda (Fargesia Rufa)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglaonema (Red Stardust)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglaonema (Silver Bay)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Crocata (Eternal Flame)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Beauty Star
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Brazil
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Lemon Lime
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Monstera Lechleriana
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Pothos Jessenia
+Sebagian;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Pothos Manjula
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Gantung;Hoya Linearis
+Sebagian;Sedang;2-3 Hari Sekali;Taman Vertikal;Kecil;Fleksibel;Paku Hias;Paku Asparagus (Asparagus Setaceus)
+Sebagian;Sedang;2-3 Hari Sekali;Taman Vertikal;Kecil;Fleksibel;Paku Hias;Paku Asparagus Plumosus
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Sarang Burung (Crispatum)
+Penuh;Tinggi;Harian;Natural;Kecil;Outdoor;Paku Hias;Paku Ekor Kuda Air (Equisetum Arvense)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Outdoor;Rimpang Berbunga;Bunga Sedap Malam (Kuning)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Rimpang Berbunga;Bunga Cendrawasih (Kuning)
+Penuh;Tinggi;Harian;Tropis;Besar;Outdoor;Rimpang Berbunga;Heliconia Bihai
+Penuh;Tinggi;Harian;Tropis;Besar;Outdoor;Rimpang Berbunga;Heliconia Curvispatha
+Penuh;Rendah;2-3 Hari Sekali;Natural;Kecil;Outdoor;Rimpang Berbunga;Bunga Kembang Sungsang (Gloriosa Superba)
+Penuh;Rendah;2-3 Hari Sekali;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Pule (Alstonia Scholaris)
+Penuh;Sedang;Harian;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Kiara Payung (Payung Emas)
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Waru Doyong (Hibiscus Tiliaceus)
+Penuh;Tinggi;Harian;Natural;Besar;Outdoor;Pohon Peneduh;Pohon Butun (Barringtonia Asiatica)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Johar (Cassia Siamea)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Jati (Tectona Grandis)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Sonokeling (Dalbergia Latifolia)
+Penuh;Rendah;Mingguan;Formal;Besar;Outdoor;Pohon Peneduh;Pohon Beringin Karet (Ficus Elastica)
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Pohon Peneduh;Pohon Beringin Pencekik (Ficus Religiosa)
+Sebagian;Tinggi;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Cokelat (Theobroma Cacao)
+Sebagian;Sedang;Harian;Produktif;Sedang;Outdoor;Semak Buah;Pohon Kopi Arabika (Coffea Arabica)
+Sebagian;Sedang;Harian;Produktif;Sedang;Outdoor;Semak Buah;Pohon Kopi Liberika (Coffea Liberica)
+Sebagian;Sedang;Harian;Herbal/TOGA;Besar;Outdoor;Pohon Bumbu;Pohon Kayu Manis (Cinnamomum Verum)
+Penuh;Tinggi;Harian;Produktif;Besar;Outdoor;Palem Buah;Pohon Kelapa Sawit (Elaeis Guineensis)
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Palem Hias;Pohon Lontar (Borassus Flabellifer)
+Penuh;Sedang;Harian;Minimalis;Besar;Outdoor;Palem Hias;Palem Serdang (Livistona Saribus)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Palem Hias;Palem Waregu (Rhapis Humilis)
+Penuh;Sedang;Harian;Pagar Hidup;Sedang;Outdoor;Semak;Pucuk Merah Variegata
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak;Puring Kura-Kura (Codiaeum Variegatum)
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Hias;Cemara Udang (Jangkung)
+Penuh;Sedang;2-3 Hari Sekali;Formal;Sedang;Outdoor;Pohon Hias;Cemara Lilin (Gold)
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Merambat;Bunga Alamanda Kuning
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Merambat;Bunga Alamanda Ungu
+Penuh;Rendah;2-3 Hari Sekali;Natural;Kecil;Outdoor;Rimpang Berbunga;Bunga Kembang Sungsang (Kuning)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Umbi Berbunga;Bunga Amarilis (Merah)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Umbi Berbunga;Bunga Amarilis (Putih)
+Sebagian;Sedang;Harian;Klasik;Kecil;Outdoor;Umbi Berbunga;Bunga Dahlia (Kuning)
+Sebagian;Sedang;Harian;Klasik;Kecil;Outdoor;Umbi Berbunga;Bunga Dahlia (Pink)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Semak Berbunga;Bunga Petunia Double
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Zinnia (Putih)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Zinnia (Orange)
+Penuh;Rendah;2-3 Hari Sekali;Taman Kering;Kecil;Outdoor;Semak Berbunga;Bunga Vinca Ungu
+Penuh;Rendah;2-3 Hari Sekali;Taman Kering;Kecil;Outdoor;Semak Berbunga;Bunga Vinca Pink
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Krisan Merah
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Bunga;Bunga Aster Ungu
+Penuh;Rendah;2-3 Hari Sekali;Natural;Kecil;Outdoor;Bunga;Bunga Marigold (Kuning)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Bunga;Bunga Gomphrena (Putih)
+Penuh;Tinggi;Harian;Aromatik;Sedang;Outdoor;Rumput/Rimpang;Daun Sereh Wangi (Cymbopogon Nardus)
+Sebagian;Sedang;Harian;Aromatik;Sedang;Outdoor;Semak Bumbu;Daun Nilam (Pogostemon Cablin)
+Sebagian;Sedang;Harian;Aromatik;Kecil;Fleksibel;Rimpang Bumbu;Daun Kapulaga Sabrang (Elettaria Cardamomum)
+Sebagian;Tinggi;Harian;Herbal/TOGA;Kecil;Outdoor;Herba;Daun Pegagan Merah (Centella Asiatica)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Daun Kumis Kucing (Putih)
+Penuh;Sedang;Harian;Herbal/TOGA;Sedang;Outdoor;Semak;Daun Sambang Darah (Excoecaria Cochinchinensis)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Umbi;Daun Bawang Merah (Lokal)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Umbi;Daun Bawang Bombay (Allium Cepa)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Cempedak (Artocarpus Champeden)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Sukun (Seedless)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Air (Madura)
+Penuh;Rendah;Mingguan;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Monyet (Cashew Tree)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Jambu Biji (Merah)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Sedang;Outdoor;Semak Buah;Pohon Delima (Putih)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Sedang;Outdoor;Pohon Buah;Pohon Tin (Ungu)
+Penuh;Rendah;2-3 Hari Sekali;Produktif;Besar;Outdoor;Pohon Buah;Pohon Sawo Kecik (Manilkara Kauki)
+Penuh;Rendah;Mingguan;Herbal/TOGA;Besar;Outdoor;Pohon Buah;Pohon Bidara (Ziziphus Mauritiana)
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Kepuh (Sterculia Foetida)
+Penuh;Sedang;2-3 Hari Sekali;Minimalis;Besar;Outdoor;Palem Hias;Palem Sadeng (Variegata)
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Palem Hias;Palem Segi Tiga (Dypsis Decaryi)
+Penuh;Rendah;Mingguan;Natural;Besar;Outdoor;Palem Hias;Palem Kipas (Borassus Flabellifer)
+Penuh;Tinggi;Harian;Natural;Besar;Outdoor;Bambu Hias;Bambu Apus (Gigantochloa Apus)
+Penuh;Tinggi;Harian;Natural;Besar;Outdoor;Bambu Hias;Bambu Tali (Gigantochloa Apus)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglaonema (Lady Valentine)
+Rendah;Rendah;Mingguan;Indoor;Kecil;Indoor;Tanaman Daun;Aglaonema (Snow White)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Triostar (Stromanthe)
+Rendah;Sedang;2-3 Hari Sekali;Indoor;Kecil;Indoor;Tanaman Daun;Calathea Orbifolia
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Verrucosum
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Philodendron Melanochrysum
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Monstera Pinnatipartita
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Pothos Happy Leaf
+Penuh;Sedang;Mingguan;Indoor;Kecil;Fleksibel;Tanaman Merambat;Pothos Gold
+Sebagian;Rendah;Mingguan;Indoor;Kecil;Fleksibel;Tanaman Gantung;Hoya Australis
+Sebagian;Rendah;Mingguan;Natural;Kecil;Fleksibel;Epifit/Unik;Paku Sarang Semut (Hydnophytum Pteropodum)
+Sebagian;Sedang;Harian;Natural;Kecil;Fleksibel;Paku Hias;Paku Tanduk Rusa (Horn's Fern)
+Rendah;Tinggi;Harian;Indoor;Kecil;Indoor;Paku Hias;Paku Selaginella (Mardi Grass)
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Umbi Berbunga;Bunga Bakung Putih
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Umbi Berbunga;Bunga Bakung Merah
+Penuh;Sedang;Harian;Klasik;Kecil;Outdoor;Umbi Berbunga;Bunga Bakung Pink
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Bunga;Bunga Jengger Ayam (Putih)
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Outdoor;Bunga;Bunga Jengger Ayam (Pink)
+Penuh;Sedang;Harian;Tropis;Kecil;Outdoor;Semak Berbunga;Bunga Soka (Mini)
+Penuh;Rendah;Mingguan;Natural;Sedang;Outdoor;Semak Berbunga;Bunga Lantana (Putih)
+Penuh;Rendah;Mingguan;Natural;Sedang;Outdoor;Semak Berbunga;Bunga Lantana (Kuning)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Indoor;Tanaman Merambat;Daun Sirih Merah (Piper Ornatum)
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Daun Sambung Nyawa (Gynura Procumbens)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Umbi;Daun Bawang Putih (Lokal)
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Herba;Daun Bawang Kucai (Allium Tuberosum)
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Jambu Air
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Mangga
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Sawo
+Penuh;Sedang;Harian;Produktif;Besar;Outdoor;Pohon Buah;Duku
+Penuh;Sedang;Harian;Aromatik;Kecil;Outdoor;Semak Berbunga;Melati
+Penuh;Sedang;Harian;Aromatik;Besar;Outdoor;Pohon Bunga;Kenanga
+Penuh;Sedang;Harian;Tropis;Sedang;Outdoor;Semak Berbunga;Kamboja
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Hias;Cemara Udang
+Penuh;Rendah;Mingguan;Peneduh;Besar;Outdoor;Pohon Peneduh;Beringin
+Penuh;Sedang;Harian;Formal;Besar;Outdoor;Palem Hias;Palem Raja
+Penuh;Tinggi;Harian;Tropis;Sedang;Outdoor;Palem Hias;Palem Merah
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Lokal
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Indoor;Tanaman Merambat;Sirih Merah
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Indoor;Tanaman Merambat;Sirih Hitam
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Indoor;Tanaman Merambat;Sirih Hijau
+Sebagian;Tinggi;Harian;Aromatik;Kecil;Indoor;Semak Daun;Pandan Wangi
+Sebagian;Tinggi;Harian;Aromatik;Kecil;Indoor;Semak Daun;Pandan Laut
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Kunyit
+Sebagian;Sedang;Harian;Herbal/TOGA;Kecil;Fleksibel;Rimpang;Jahe
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Merah
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Merah
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Panjang
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Putih
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Australia
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Merah
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Merah
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Besar
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Eropa
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Putih
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Korea
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Jepang Mini
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Raksasa
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Merah
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Lokal
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Mini
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Putih
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Korea
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Lokal
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Biru
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Jepang
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Hitam Mini
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Korea
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Lokal
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Merah
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Putih
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Korea
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Putih
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Merah
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Hijau
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Australia
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Korea
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Putih
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Australia
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Putih
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Australia
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Hijau
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Australia
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Korea
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Orange
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Putih Mini
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Lokal
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Orange
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Hijau
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Orange
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Hijau
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Orange
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Lokal
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Australia
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Pink
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Hijau
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Pink
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Pink
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Pink
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Pink
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Pink
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Pink
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Pink
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Pink
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Ungu
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Pink
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Ungu
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Ungu
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Ungu
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Ungu
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Ungu
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Ungu
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Ungu
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Ungu
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Silver
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Ungu
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Silver
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Silver
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Silver
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Silver
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Silver
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Silver
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Silver
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Silver
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Pelangi
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Kristal
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Emas
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Kristal
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Biru
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Biru
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Emas
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Biru
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Emas
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Emas
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Safir
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Safir
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Safir
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Safir
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Safir
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Safir
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Safir
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Safir
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Safir
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Safir
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Topaz
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Topaz
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Topaz
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Topaz
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Topaz
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Topaz
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Topaz
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Topaz
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Topaz
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Topaz
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Ruby
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Ruby
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Ruby
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Ruby
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Ruby
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Ruby
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Ruby
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Ruby
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Ruby
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Ruby
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Jade
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Jade
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Jade
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Jade
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Jade
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Jade
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Jade
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Jade
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Jade
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Jade
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Amber
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Amber
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Amber
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Amber
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Amber
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Amber
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Amber
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Amber
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Amber
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Amber
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Onyx
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Onyx
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Onyx
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Onyx
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Onyx
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Onyx
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Onyx
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Onyx
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Onyx
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Onyx
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Citrine
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Citrine
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Citrine
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Citrine
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Citrine
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Citrine
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Citrine
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Citrine
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Citrine
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Citrine
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Peridot
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Peridot
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Peridot
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Peridot
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Peridot
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Peridot
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Peridot
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Peridot
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Peridot
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Peridot
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Garnet
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Garnet
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Garnet
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Garnet
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Garnet
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Garnet
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Garnet
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Garnet
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Garnet
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Garnet
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Opal
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Opal
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Opal
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Opal
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Opal
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Opal
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Opal
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Opal
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Opal
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Opal
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Quartz
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Quartz
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Quartz
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Quartz
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Quartz
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Quartz
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Quartz
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Quartz
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Quartz
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Quartz
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Moonstone
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Moonstone
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Moonstone
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Moonstone
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Moonstone
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Moonstone
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Moonstone
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Moonstone
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Moonstone
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Moonstone
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Sunstone
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Sunstone
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Sunstone
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Sunstone
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Sunstone
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Sunstone
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Sunstone
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Sunstone
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Sunstone
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Sunstone
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Coral
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Coral
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Coral
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Coral
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Coral
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Coral
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Coral
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Coral
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Coral
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Coral
+;;;;;;;
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Galaxy
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Galaxy
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Galaxy
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Galaxy
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Galaxy
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Galaxy
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Galaxy
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Galaxy
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Galaxy
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Galaxy
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Aurora
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Aurora
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Aurora
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Aurora
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Aurora
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Aurora
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Aurora
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Aurora
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Aurora
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Aurora
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Cosmos
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Cosmos
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Cosmos
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Cosmos
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Cosmos
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Cosmos
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Cosmos
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Cosmos
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Cosmos
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Cosmos
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Nebula
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Nebula
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Nebula
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Nebula
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Nebula
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Nebula
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Nebula
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Nebula
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Nebula
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Nebula
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Meteor
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Meteor
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Meteor
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Meteor
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Meteor
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Meteor
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Meteor
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Meteor
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Meteor
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Meteor
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Eclipse
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Eclipse
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Eclipse
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Eclipse
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Eclipse
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Eclipse
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Eclipse
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Eclipse
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Eclipse
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Eclipse
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Comet
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Comet
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Comet
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Comet
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Comet
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Comet
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Comet
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Comet
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Comet
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Comet
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Nova
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Nova
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Nova
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Nova
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Nova
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Nova
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Nova
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Nova
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Nova
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Nova
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Vega
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Vega
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Vega
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Vega
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Vega
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Vega
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Vega
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Vega
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Vega
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Vega
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Sirius
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Sirius
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Sirius
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Sirius
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Sirius
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Sirius
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Sirius
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Sirius
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Sirius
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Sirius
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Orion
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Orion
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Orion
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Orion
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Orion
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Orion
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Orion
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Orion
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Orion
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Orion
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Altair
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Altair
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Altair
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Altair
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Altair
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Altair
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Altair
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Altair
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Altair
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Altair
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Deneb
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Deneb
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Deneb
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Deneb
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Deneb
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Deneb
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Deneb
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Deneb
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Deneb
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Deneb
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Polaris
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Polaris
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Polaris
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Polaris
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Polaris
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Polaris
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Polaris
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Polaris
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Polaris
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Polaris
+Sebagian;Sedang;Mingguan;Minimalis;Sedang;Outdoor;Tanaman Ramping;Bambu Antares
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Indoor;Sukulen;Kaktus Antares
+Sebagian;Sedang;2-3 Hari Sekali;Klasik;Sedang;Outdoor;Pohon Berbunga;Pohon Sakura Antares
+Rendah;Tinggi;Harian;Natural;Kecil;Indoor;Paku Hias;Pakis Antares
+Sebagian;Sedang;Mingguan;Formal;Besar;Outdoor;Pohon Hias;Pohon Maple Antares
+Penuh;Sedang;Harian;Produktif;Kecil;Outdoor;Bunga;Bunga Matahari Antares
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Palem Hias;Palem Kipas Antares
+Penuh;Rendah;Mingguan;Herbal/TOGA;Sedang;Outdoor;Pohon Buah;Pohon Zaitun Antares
+Sebagian;Sedang;Mingguan;Aromatik;Kecil;Outdoor;Semak Berbunga;Bunga Lantana Antares
+Penuh;Rendah;Mingguan;Minimalis;Besar;Outdoor;Pohon Peneduh;Pohon Pinus Antares
+Penuh;Tinggi;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Ketapang Kencana
+Penuh;Rendah;2-3 Hari Sekali;Tropis;Sedang;Outdoor;Semak Berbunga;Bunga Kertas Bougainvillea
+Rendah;Tinggi;Harian;Indoor;Kecil;Indoor;Paku Hias;Paku Pedang (Nephrolepis)
+Rendah;Sedang;Mingguan;Indoor;Kecil;Indoor;Tanaman Merambat;Sirih Gading Emas
+Penuh;Tinggi;Harian;Produktif;Besar;Outdoor;Pohon Buah;Pohon Mangga Harum Manis
+Penuh;Sedang;2-3 Hari Sekali;Tropis;Besar;Outdoor;Palem Hias;Palem Kuning
+Penuh;Rendah;Mingguan;Taman Kering;Kecil;Fleksibel;Sukulen;Tanaman Lidah Buaya
+Penuh;Sedang;Harian;Klasik;Sedang;Outdoor;Semak Berbunga;Bunga Mawar Merah
+Penuh;Tinggi;Harian;Pagar Hidup;Besar;Outdoor;Bambu Hias;Bambu Kuning Hias
+Penuh;Tinggi;Harian;Natural;Besar;Outdoor;Rumput/Rimpang;Rumput Manila
+Sedang;Tinggi;Harian;Herbal/TOGA;Kecil;Fleksibel;Herba;Tanaman Mint
+Penuh;Sedang;Harian;Aromatik;Sedang;Outdoor;Semak Berbunga;Bunga Melati Putih
+Penuh;Rendah;2-3 Hari Sekali;Tropis;Besar;Outdoor;Pohon Berbunga;Pohon Kamboja Bali
+Sedang;Tinggi;Harian;Natural;Kecil;Indoor;Tanaman Daun;Talas Hias (Caladium)
+Penuh;Sedang;Harian;Peneduh;Besar;Outdoor;Pohon Peneduh;Pohon Sawo Kecik
